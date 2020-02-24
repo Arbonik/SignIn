@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "382811288171",
+    "firebase_url": "https://signin-c1444.firebaseio.com",
+    "project_id": "signin-c1444",
+    "storage_bucket": "signin-c1444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382811288171:android:6bcfe7c07408612769f72e",
+        "android_client_info": {
+          "package_name": "com.arbonik.signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382811288171-mm27dbig9nee4n1b9l63nh01614g6n5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arbonik.signin",
+            "certificate_hash": "b6086a250ed4f5de955401be8c8fae2ded108e0c"
+          }
+        },
+        {
+          "client_id": "382811288171-gptj1lme5eii3ugs3k18l3mjhl36jdds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU_hFYeRB3e6CvIaIrK-Dsgfk2FMYL1h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382811288171-gptj1lme5eii3ugs3k18l3mjhl36jdds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
